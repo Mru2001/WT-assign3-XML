@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="Record.css" ?>
+
+ <Record>
+
+<data> 
+    <data-header> StudentId </data-header> 
+    <data-header> Surname </data-header> 
+    <data-header> Name </data-header> 
+    <data-header> Course </data-header> 
+</data>
+
+<data> 
+<data-header> 357 </data-header> 
+<data-header> Yewale </data-header> 
+<data-header> Mrunali </data-header> 
+<data-header> Computer </data-header> 
+</data>
+
+<data> 
+<data-cell> 359 </data-cell> 
+<data-cell> Sejal </data-cell>
+<data-cell> Jim </data-cell> 
+<data-cell> IT </data-cell> 
+</data>
+
+<data> 
+<data-cell> 345 </data-cell> 
+<data-cell> Jack </data-cell>
+<data-cell> Janet </data-cell> 
+<data-cell> Diploma </data-cell>
+</data>
+
+ </Record>
